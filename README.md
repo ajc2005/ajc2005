@@ -3,7 +3,7 @@
 ### Frontend
 <div>
     <a href="https://devdocs.io/html/" style="text-decoration: none;">
-        <img src="./assets/icons/html-logo.png" alt="HTML icon" style="width: 64px; height: 64px; margin: 8px;" />
+        <img src="./assets/icons/html-logo.png" title="HTML icon" alt="HTML icon" style="width: 64px; height: 64px; margin: 8px;" />
     </a>
     <a href="https://devdocs.io/css/" style="text-decoration: none;">
         <img src="./assets/icons/css-logo.png" alt="CSS icon" style="width: 64px; height: 64px; margin: 8px;" />
